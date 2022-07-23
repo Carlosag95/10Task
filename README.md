@@ -9,3 +9,7 @@ data instead of being static to one set of data.We update calculateradiusbasedon
 5.In index.ts We create an updatechart function to update the chart according to the dataset we select.This function calls to calculateradiusbasedonaffectedcases.
 6.In index.ts Creating two functions that by clicking on the buttons call the update chart function with the selected dataset 
 according to the selected button.
+
+
+To execute the code first you have to download this full repository and unzip the file.Then load the unzipped file to VSC and loading the full file there.
+Once we have the file in VSC, running npm install and npm start in a terminal window will open our chart.
